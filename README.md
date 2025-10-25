@@ -15,10 +15,15 @@ Format: CSV/Excel post-cleaning.
 
 # 🔧 Steps Involved
 -> Data cleaning and preparation using Pandas in Jupyter (removal of duplicates, type conversions, accuracy validation)
+
 -> Exploratory data analysis to review key COVID-19 metrics and identify trends
+
 -> Imported cleaned data into Power BI
+
 -> Added calculated columns, created DAX measures for metrics like positivity rate
+
 -> Built a six-page interactive Power BI report: slicers, KPIs, line charts, maps, and summary views
+
 -> Implemented drill-down and filters for granular and interactive analysi
 
 # 📈 Dashboard Pages
