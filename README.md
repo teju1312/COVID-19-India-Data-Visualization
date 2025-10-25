@@ -10,7 +10,9 @@ COVID-19 data source ➡️ Data cleaning & transformation (Python, Pandas) ➡�
 
 # 📊 Dataset
 Columns: Confirmed Cases, Deceased, Active, Delta Confirmed, Tests per Positive Case, Positive Rate, State, Date, and more.
+
 Source: Public COVID-19 datasets (India2020)
+
 Format: CSV/Excel post-cleaning.
 
 # 🔧 Steps Involved
@@ -28,20 +30,31 @@ Format: CSV/Excel post-cleaning.
 
 # 📈 Dashboard Pages
   1.Dashboard
+  
   2.Map(State level)
+  
   3.Zone areas analysis
+  
   4.Tests analysis
+  
   5.Patient analysis
+  
   6.Non-Virus Deaths analysis
 
 # 🚀 Tools & Technologies
 Python (Pandas, Jupyter Notebooks)
+
 Power BI
+
 DAX
+
 Excel/CSV
 
 # 🧠 Learnings
 -> How to clean and validate large real-world health datasets with Python
+
 -> Best ways to visualize KPIs and trends for public health using Power BI dashboards
+
 -> Using calculated columns and DAX for dynamic, real-time analysis in Power BI
+
 ->Importance of interactive filters and drilldowns for user-driven exploration
