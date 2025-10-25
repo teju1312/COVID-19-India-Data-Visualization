@@ -1,0 +1,124 @@
+state,date_of_incident,hospital_place,district,no_of_deaths,category
+Andhra Pradesh,03-05-2021,Hindupur District Hospital,Anantapur,8,Oxygen Shortage
+Andhra Pradesh,04-05-2021,Machilipatnam District Hospital,Krishna,6,Oxygen Shortage
+Andhra Pradesh,05-05-2021,"Private Hospital, Vijayawada",Vijayawada,2,Oxygen Shortage
+Andhra Pradesh,04-05-2021,Anantapur Super Speciality Cancer Hospital,Anantapur,4,Oxygen Shortage
+Andhra Pradesh,27-04-2021,Proddatur Government Hospital,Kadapa,2,Oxygen Shortage
+Andhra Pradesh,26-04-2021,Maharaja Government Hospital,Vizianagaram,3,Oxygen Shortage
+Andhra Pradesh,05-05-2021,"Government General Hospital, Nellore",Nellore,6,Oxygen Shortage
+Andhra Pradesh,05-05-2021,Gudur Government Hospital,Nellore,5,Oxygen Shortage
+Andhra Pradesh,10-05-2021,SVR Ruia Government Hospital,Chittoor ,23,Oxygen Shortage
+Andhra Pradesh,01-05-2021,"Government General Hospital, Anantapur",Anantapur,11,Oxygen Shortage
+Andhra Pradesh,01-05-2021,KS Care Hospital,Kurnool,5,Oxygen Shortage
+Bihar,25-04-2021,Nalanda Medical College Hospital,Patna,3,Oxygen Shortage
+Bihar,,PMCH,Patna,1,Oxygen Shortage
+Bihar,14-05-2021,Sadar Hospital,Aurangabad,1,Oxygen Shortage
+Bihar,19-05-2021,Darbhanga Medical College & Hospital ,Darbhanga,1,Oxygen Shortage
+Bihar,21-04-2021,Sadar Hospital,Lakhisarai,1,Oxygen Shortage
+Bihar,28-04-2021,"Sadar Hospital, Ara",Bhojpur,1,Oxygen Shortage
+Bihar,25-04-2021,"Private hospital, kankarbagh",Patna,4,Oxygen Shortage
+Bihar,17-04-2021,"IGIMS, Patna",Patna,1,Oxygen Shortage
+Bihar,22-04-2021,"Sadar Hospital, Ara",Bhojpur,3,Oxygen Shortage
+Bihar,30-04-2021,Mahua Subdivisonal Hospital,Vaishali,1,Oxygen Shortage
+Bihar,09-05-2021,"Sadar Hospital, Motihari",East Champaran,3,Oxygen Shortage
+Chhattisgarh,13-04-2021,Medical College Basantpur,Rajnandgaon,1,Oxygen Shortage
+Delhi,23-04-2021,Jaipur Golden Hospital,Delhi,21,Oxygen Shortage
+Delhi,09-05-2021,Rajeev Gandhi super speciality hospital Tahirpur,Delhi,1,Oxygen Shortage
+Delhi,23-04-2021,Sir Ganga Ram Hospital,,25,Oxygen Shortage
+Delhi,01-05-2021,Batra Hospital,South Delhi,12,Oxygen Shortage
+Goa,12-05-2021,"Goa Medical College, Bambolim",North Goa,21,Oxygen Shortage
+Goa,11-05-2021,"Goa Medical College, Bambolim",North Goa,26,Oxygen Shortage
+Goa,15-05-2021,"Goa Medical College, Bambolim",North Goa,8,Oxygen Shortage
+Goa,14-05-2021,"Goa Medical College, Bambolim",North Goa,13,Oxygen Shortage
+Goa,13-05-2021,"Goa Medical College, Bambolim",North Goa,15,Oxygen Shortage
+Gujarat,22-04-2021,"Het ICU, Deesa and one unknown hospital",Banaskantha,5,Oxygen Shortage
+Gujarat,26-04-2021,Vadnagar Civil Hospital,Mehsana,8,Oxygen Shortage
+Gujarat,22-04-2021,Kundan Hospital,Rajkot,2,Oxygen Shortage
+Gujarat,22-04-2021,A hospital in Palanpur,Banaskantha,1,Oxygen Shortage
+Gujarat,27-04-2021,Guru Gobind (GG) Singh Government Hospital,Jamnagar,1,Oxygen Shortage
+Gujarat,14-04-2021,"Private hospital, Navsari",Navsari,5,Oxygen Shortage
+Haryana,30-04-2021,Kirti Hospital,Gurugram,7,Oxygen Shortage
+Haryana,25-04-2021,Center of Diabetes and Allied Sciences (CDAS),Gurugram,2,Oxygen Shortage
+Haryana,25-04-2021,Kathuria Hospital,Gurugram,4,Oxygen Shortage
+Haryana,25-04-2021,Virat Hospital ,Rewari,4,Oxygen Shortage
+Haryana,27-04-2021,Soni Burn Hospital,Hisar,5,Oxygen Shortage
+Jammu and Kashmir,01-05-2021,Acharya Shri Chander College of Medical Sciences and Hospital,Jammu,4,Oxygen Shortage
+Jammu and Kashmir,17-05-2021,JVC medical college and hospital,Srinagar,1,Oxygen Shortage
+Jharkhand,06-05-2021,Sadar Hospital,Ranchi,5,Oxygen Shortage
+Jharkhand,17-04-2021,Sanjeevani Nursing Home,Godda,3,Oxygen Shortage
+Jharkhand,30-04-2021,"Sadar Hospital, Ranchi",Ranchi,16,Oxygen Shortage
+Jharkhand,17-04-2021,Sunrise Hospital,Godda,1,Oxygen Shortage
+Karnataka,03-05-2021,Anand Hospital ,Kalaburagi,2,Oxygen Shortage
+Karnataka,02-05-2021,Aland Taluk Hospital,Kalaburagi,4,Oxygen Shortage
+Karnataka,26-04-2021,SNR district hopital,Kolar,4,Oxygen Shortage
+Karnataka,13-04-2021,Government Hospital,Pandavapura,1,Oxygen Shortage
+Karnataka,03-05-2021,Chamarajanagar Institute of Medical Sciences (CIMS),Chamarajanagar,36,Oxygen Shortage
+Karnataka,01-05-2021, KBN hospital,Kalaburagi,4,Oxygen Shortage
+Karnataka,04-05-2021,Shri Bhanji D Khimji Lifeline Hospital,Hubbali,5,Oxygen Shortage
+Karnataka,04-05-2021,Kalburgi government hospital,Kalaburagi,4,Oxygen Shortage
+Karnataka,04-05-2021,Belagavi government hospital,Belagavi,3,Oxygen Shortage
+Karnataka,04-05-2021,Arka Hospital,Bangalore,2,Oxygen Shortage
+Kashmir,26-04-2021,"Government Hospital, Srinagar",Srinagar,1,Oxygen Shortage
+Madhya Pradesh,26-04-2021,"District hospital, Katni",Katni,2,Oxygen Shortage
+Madhya Pradesh,23-04-2021,Galaxy Hospital,Jabalpur,5,Oxygen Shortage
+Madhya Pradesh,11-05-2021,"District Hospital, Betul",Betul,1,Oxygen Shortage
+Madhya Pradesh,18-04-2021,Atal Bihari Vajpayee Medical College,Vidisha,7,Oxygen Shortage
+Madhya Pradesh,26-04-2021,"District hospital, Morena ",Morena,3,Oxygen Shortage
+Madhya Pradesh,29-04-2021,"District Hospital, Neemuch",Neemuch,1,Oxygen Shortage
+Madhya Pradesh,06-04-2021,Bundelkhand Medical College hospital,Sagar,4,Oxygen Shortage
+Madhya Pradesh,15-04-2021,Sanjay Gandhi Hospital,Rewa,1,Oxygen Shortage
+Madhya Pradesh,15-04-2021,"District Hospital, Khandwa",Khandwa,11,Oxygen Shortage
+Madhya Pradesh,19-04-2021,"People's Hospital, Bhopal",Bhopal,8,Oxygen Shortage
+Madhya Pradesh,17-04-2021,"Covid Centre, Neemuch",Neemuch,2,Oxygen Shortage
+Madhya Pradesh,18-04-2021,Shahdol Medical College,Shahdol,6,Oxygen Shortage
+Madhya Pradesh,01-05-2021,District Hospital in Barwani,Barwani,4,Oxygen Shortage
+Madhya Pradesh,23-04-2021,Jaya Arogya hospital,Gwalior,25,Oxygen Shortage
+Madhya Pradesh,25-04-2021,"Tejankar Hospital, Ujjain",Ujjain,4,Oxygen Shortage
+Madhya Pradesh,24-04-2021,Chhatarpur District hospital,Chhatarpur,4,Oxygen Shortage
+Maharashtra,13-04-2021,CCC Kandri,"Kandri, Nagpur",4,Oxygen Shortage
+Maharashtra,12-04-2021,Vinayaka Hospital in Nala Sopara,Palghar,7,Oxygen Shortage
+Maharashtra,21-04-2021,Zakir Husain municipal Hospital,Nashik,24,Oxygen Shortage
+Maharashtra,14-04-2021,"Private Hospital, Malegaon",Nashik,1,Oxygen Shortage
+Maharashtra,01-05-2021,Mahalakshmi Hospital,Kolhapur,1,Oxygen Shortage
+Maharashtra,26-04-2021,Vedant Hospital in Vartak Nagar,Thane,4,Oxygen Shortage
+Maharashtra,21-04-2021,"Swami Ramanand Teerth Rural Medical College, Ambajogai",Beed,11,Oxygen Shortage
+Maharashtra,15-04-2021,Government Hospital,Gondia,15,Oxygen Shortage
+Maharashtra,20-04-20121,Meltron Covid Care Centre,Aurangabad,1,Oxygen Shortage
+Maharashtra,12-04-2021,Riddhivinayak Hospital,Palghar,3,Oxygen Shortage
+Odisha,18-05-2021,"Ispat General Hospital, Rourkela",Sundargarh,1,Oxygen Shortage
+Odisha,19-04-2021,District hospital,Nuapada,2,Oxygen Shortage
+Punjab,23-04-2021,Neelkanth Hospital,Amritsar,6,Oxygen Shortage
+Rajasthan,28-04-2021,PBM hospital,Bikaner,3,Oxygen Shortage
+Rajasthan,14-05-2021,Rajasthan University of Health Sciences,Jaipur,3,Oxygen Shortage
+Rajasthan,28-04-2021,Private hospital in Kalwar,Jaipur,4,Oxygen Shortage
+Rajasthan,19-04-2021,New Medical College COVID Hospital,Kota,2,Oxygen Shortage
+Tamil Nadu,17-05-2021,Madurai Rajaji Government General Hospital.,Madurai,6,Oxygen Shortage
+Tamil Nadu,05-05-2021,Tirupathur Government Hospital,Tirupathur,4,Oxygen Shortage
+Tamil Nadu,18-05-2021,"Kurinji Hospital, Salem",Salem,5,Oxygen Shortage
+Tamil Nadu,30-04-2021,Private Hospital Coimbatore,Coimbatore,2,Oxygen Shortage
+Tamil Nadu,04-05-2021,Chengalpattu GH,Chengalpattu,13,Oxygen Shortage
+Tamil Nadu,19-04-2021, Vellore Adukkamparai government hospital,Vellore,5,Oxygen Shortage
+Tamil Nadu,12-05-2021,Tirunelveli Government Medical College Hospital,Tiruneveli,13,Oxygen Shortage
+Telangana,09-05-2021,"King Koti Hospital, Hyderabad",Hyderabad,7,Oxygen Shortage
+Telangana,09-05-2021,"Telangana Institute of Medical Sciences (TIMS), Gachibowli",Ranga Reddy,8,Oxygen Shortage
+Uttar Pradesh,25-04-2021,"District Hospital, Kaushambi",Kaushambi,1,Oxygen Shortage
+Uttar Pradesh,24-04-2021,"Durgawati Hospital, Barhalganj",Gorakhpur,3,Oxygen Shortage
+Uttar Pradesh,02-05-2021,"Nutema Hospital, Meerut",Meerut,5,Oxygen Shortage
+Uttar Pradesh,23-04-2021,Rohelkhand Hospital Bareilly,Bareilly ,1,Oxygen Shortage
+Uttar Pradesh,26-04-2021,"Sadar Hospital, Wasliganj",Mirzapur,1,Oxygen Shortage
+Uttar Pradesh,26-04-2021,"District Hospital, Firozabad",Agra,1,Oxygen Shortage
+Uttar Pradesh,28-04-2021,Private Hospital,Farrukhabad,1,Oxygen Shortage
+Uttar Pradesh,30-04-2021,Lala Lajpat Rai Memorial Medical College,Meerut,2,Oxygen Shortage
+Uttar Pradesh,28-04-2021,Paras Hospital,Agra,7,Oxygen Shortage
+Uttar Pradesh,,"District Women's Hospital, Ayodhya",Ayodhya,3,Oxygen Shortage
+Uttar Pradesh,12-05-2021,Private Hospital,Lucknow,1,Oxygen Shortage
+Uttar Pradesh,28-04-2021,Anand Hospital,Meerut,3,Oxygen Shortage
+Uttar Pradesh,28-04-2021,KMC Hospital,Meerut,4,Oxygen Shortage
+Uttar Pradesh,21-04-2021,"Private hospital, Aligarh",Aligarh,5,Oxygen Shortage
+Uttar Pradesh,27-04-2021,L2 district hospital,Sultanpur,5,Oxygen Shortage
+Uttar Pradesh,29-04-2021,Bright Star Hospital,Moradabad,6,Oxygen Shortage
+Uttar Pradesh,30-04-2021,L-2 Hospital,Farrukhabad,1,Oxygen Shortage
+Uttar Pradesh,21-04-2021,Almighty Hospital,Lucknow,1,Oxygen Shortage
+Uttar Pradesh,25-04-2021,Narayan Hospital,Bareilly ,4,Oxygen Shortage
+Uttarakhand,04-05-2021,Roorkee,Haridwar,5,Oxygen Shortage
+West Bengal,11-05-2021,"Vidyasagar Hospital, Behala Kolkata",South 24 Paraganas,1,Oxygen Shortage
