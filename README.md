@@ -60,7 +60,7 @@ Excel/CSV
 -> Importance of interactive filters and drilldowns for user-driven exploration
 
 
-# ✅ Page 1: Home
+# ✅ Page 1: Dashboard
 Overview of the COVID-19 dashboard with summary statistics and key visuals.
 
 ![Dashboard](Dashboard.png)
