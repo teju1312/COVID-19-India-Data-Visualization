@@ -64,3 +64,9 @@ Excel/CSV
 Overview of the COVID-19 dashboard with summary statistics and key visuals.
 
 ![Dashboard](Dashboard.png)
+
+
+# ✅ Page 2: State Analysis (Map)
+Breakdown of cases, deaths, and positivity rate by Indian state.
+
+![State Analysis](Map(State-Level).png)
