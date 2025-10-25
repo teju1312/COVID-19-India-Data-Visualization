@@ -65,6 +65,7 @@ Overview of the COVID-19 dashboard with summary statistics and key visuals.
 
 ![Dashboard](Vedios/Dashboard.mp4)
 ![Dashboard](./Vedios/Dashboard.mp4)
+<video src="/Vedios/Dashboard.mp4" controls></video>
 
 
 # ✅ Page 2: State Analysis (Map)
