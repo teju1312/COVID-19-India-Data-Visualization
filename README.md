@@ -63,7 +63,7 @@ Excel/CSV
 # ✅ Page 1: Dashboard
 Overview of the COVID-19 dashboard with summary statistics and key visuals.
 
-![Dashboard](/pics/Dashboard.png)
+![Dashboard](/Videos/Dashboard.mp4)
 
 
 # ✅ Page 2: State Analysis (Map)
