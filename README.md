@@ -62,6 +62,12 @@ Excel/CSV
 
 # ✅ Page 1: Dashboard
 Overview of the COVID-19 dashboard with summary statistics and key visuals.
+  
+  -> Maharashtra recorded the highest confirmed and recovered cases.
+
+  -> Chennai and Mumbai led in district-level case counts.
+
+  -> Recovery rates showed strong improvement across major states.
 
 ![Dashboard](gifs/Dashboard.gif)
 
