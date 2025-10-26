@@ -67,7 +67,7 @@ Overview of the COVID-19 dashboard with summary statistics and key visuals.
 
 2. It shows key metrics — total confirmed, recovered, and death cases.
 
-3. The bar charts compare COVID-19 trends across states and districts.
+3. The bar charts compare COVID-19 trends across top 3 states and districts.
 
 4. Color coding helps quickly identify confirmed (pink), recovered (green), and death (red) cases.
 
