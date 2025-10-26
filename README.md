@@ -88,3 +88,18 @@ Breakdown of cases, deaths, confirmed and recovered rate by Indian state.
 4. Interactive hovering helps users quickly compare states like Maharashtra, Tamil Nadu, and Kerala.
 
 ![State Analysis](gifs/Map_analysis(state).gif)
+
+# ✅ Page 4: Zone Analysis
+Breakdown of COVID-19 spread and outcomes by regional zones.
+
+1. This page displays COVID-19 containment zones across India — divided into Red, Orange, and Green zones.
+
+2. The map highlights each district’s status, helping visualize which regions were most or least affected.
+
+3. The donut chart on the right summarizes the total count and percentage of each zone type.
+
+4. Hover interactions show detailed zone information for each district and state.
+
+5. This helps in tracking infection intensity and monitoring recovery progress across regions.
+
+![Zone Analysis](gifs/zone_areas_analysis.gif)
