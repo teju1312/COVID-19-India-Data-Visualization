@@ -102,4 +102,4 @@ Breakdown of COVID-19 spread and outcomes by regional zones.
 
 5. This helps in tracking infection intensity and monitoring recovery progress across regions.
 
-![Zone Analysis](gifs/zone_areas_analysis.gif)
+![Zone Analysis](gifs/Zone_areas_analysis.gif)
