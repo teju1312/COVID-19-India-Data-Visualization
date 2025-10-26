@@ -63,11 +63,15 @@ Excel/CSV
 # ✅ Page 1: Dashboard
 Overview of the COVID-19 dashboard with summary statistics and key visuals.
   
-  -> Maharashtra recorded the highest confirmed and recovered cases.
+1. This is a Power BI dashboard visualizing COVID-19 data across India.
 
-  -> Chennai and Mumbai led in district-level case counts.
+2. It shows key metrics — total confirmed, recovered, and death cases.
 
-  -> Recovery rates showed strong improvement across major states.
+3. The bar charts compare COVID-19 trends across states and districts.
+
+4. Color coding helps quickly identify confirmed (pink), recovered (green), and death (red) cases.
+
+5. The interactive tooltips display detailed data when hovering over bars.
 
 ![Dashboard](gifs/Dashboard.gif)
 
