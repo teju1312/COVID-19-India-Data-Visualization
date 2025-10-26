@@ -16,17 +16,17 @@ Source: Public COVID-19 datasets (India2020)
 Format: CSV/Excel post-cleaning.
 
 # 🔧 Steps Involved
--> Data cleaning and preparation using Pandas in Jupyter (removal of duplicates, type conversions, accuracy validation)
+1. Data cleaning and preparation using Pandas in Jupyter (removal of duplicates, type conversions, accuracy validation)
 
--> Exploratory data analysis to review key COVID-19 metrics and identify trends
+2. Exploratory data analysis to review key COVID-19 metrics and identify trends
 
--> Imported cleaned data into Power BI
+3. Imported cleaned data into Power BI
 
--> Added calculated columns, created DAX measures for metrics like positivity rate
+4. Added calculated columns, created DAX measures for metrics like positivity rate
 
--> Built a six-page interactive Power BI report: slicers, KPIs, line charts, maps, and summary views
+5. Built a six-page interactive Power BI report: slicers, KPIs, line charts, maps, and summary views
 
--> Implemented drill-down and filters for granular and interactive analysi
+6. Implemented drill-down and filters for granular and interactive analysi
 
 # 📈 Dashboard Pages
   1.Dashboard
@@ -51,13 +51,13 @@ DAX
 Excel/CSV
 
 # 🧠 Learnings
--> How to clean and validate large real-world health datasets with Python
+1. How to clean and validate large real-world health datasets with Python
 
--> Best ways to visualize KPIs and trends for public health using Power BI dashboards
+2. Best ways to visualize KPIs and trends for public health using Power BI dashboards
 
--> Using calculated columns and DAX for dynamic, real-time analysis in Power BI
+3. Using calculated columns and DAX for dynamic, real-time analysis in Power BI
 
--> Importance of interactive filters and drilldowns for user-driven exploration
+4. Importance of interactive filters and drilldowns for user-driven exploration
 
 
 # ✅ Page 1: Dashboard
