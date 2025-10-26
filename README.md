@@ -79,4 +79,12 @@ Overview of the COVID-19 dashboard with summary statistics and key visuals.
 # ✅ Page 2: State Analysis (Map)
 Breakdown of cases, deaths, confirmed and recovered rate by Indian state.
 
+1. This page shows a state-level map visualization of COVID-19 data across India.
+
+2. Each bubble represents a state, sized by total confirmed cases.
+
+3. Colors and tooltips display key metrics like total confirmed, recovered, active, and death percentages.
+
+4. Interactive hovering helps users quickly compare states like Maharashtra, Tamil Nadu, and Kerala.
+
 ![State Analysis](gifs/Map_analysis(state).gif)
