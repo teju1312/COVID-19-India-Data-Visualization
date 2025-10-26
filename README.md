@@ -135,3 +135,19 @@ This page presents an in-depth view of patient distribution by state and their c
 5. This helps in understanding recovery progress and hospitalization trends across India.
 
 ![Patients Details](gifs/Patients_details_analysis.gif)
+
+# ✅ Page 6: Non-Virus Deaths Data
+
+This page analyzes deaths not directly caused by COVID-19, breaking down non-virus fatalities by state.
+
+1. This page focuses on non-COVID-related deaths recorded during the pandemic period.
+
+2. The pie chart visualizes non-virus deaths by state, showing how each region contributed to the total count.
+
+3. A summary card displays the overall number of non-virus deaths for quick reference.
+
+4. Interactive filtering allows users to focus on specific states and analyze age or region-based data.
+
+5. This helps highlight indirect impacts of the pandemic and overall public health trends beyond COVID-19 cases.
+
+![Non-Virus Deaths Data](gifs/Non_Virus-Deaths_analysis.gif)
