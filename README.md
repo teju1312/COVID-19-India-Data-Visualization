@@ -150,4 +150,4 @@ This page analyzes deaths not directly caused by COVID-19, breaking down non-vir
 
 5. This helps highlight indirect impacts of the pandemic and overall public health trends beyond COVID-19 cases.
 
-![Non-Virus Deaths Data](gifs/Non_Virus-Deaths_analysis.gif)
+![Non-Virus Deaths Data](gifs/Non_Virus_Deaths_analysis.gif)
