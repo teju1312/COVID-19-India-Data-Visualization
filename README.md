@@ -69,4 +69,4 @@ Overview of the COVID-19 dashboard with summary statistics and key visuals.
 # ✅ Page 2: State Analysis (Map)
 Breakdown of cases, deaths, confirmed and recovered rate by Indian state.
 
-![State Analysis](Map(State-Level).png)
+![State Analysis](Map_analysis(state).gif)
