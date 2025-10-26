@@ -119,3 +119,19 @@ This page provides a comprehensive analysis of COVID-19 testing data—both over
 5. The summary cards display key metrics like total positives, negatives, and test averages per population.
 
 ![Tests Analysis](gifs/Tests_analysis.gif)
+
+# ✅ Page 5: Patients Details
+
+This page presents an in-depth view of patient distribution by state and their current COVID-19 status
+
+1. This page shows the current status of COVID-19 patients across different states.
+
+2. The bar chart compares patient counts by status — recovered, hospitalized, deceased, and migrated.
+
+3. The pie chart summarizes the overall distribution of patients by their current status.
+
+4. Hover tooltips display exact patient numbers for each state and status category.
+
+5. This helps in understanding recovery progress and hospitalization trends across India.
+
+![Patients Details](gifs/Patients_details_analysis.gif)
