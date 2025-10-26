@@ -103,3 +103,19 @@ Breakdown of COVID-19 spread and outcomes by regional zones.
 5. This helps in tracking infection intensity and monitoring recovery progress across regions.
 
 ![Zone Analysis](gifs/Zone_areas_analysis.gif)
+
+# ✅ Page 4: Tests Analysis
+
+This page provides a comprehensive analysis of COVID-19 testing data—both over time and by state.
+
+1. This page shows COVID-19 testing trends across Indian states.
+
+2. The line chart tracks the number of tests conducted over time for each state.
+
+3. The scatter plot compares total tests and positivity rates, showing state-level testing efficiency.
+
+4. Interactive filters let users select and compare specific states.
+
+5. The summary cards display key metrics like total positives, negatives, and test averages per population.
+
+![Tests Analysis](gifs/Tests_analysis.gif)
