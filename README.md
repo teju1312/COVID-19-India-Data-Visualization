@@ -89,7 +89,7 @@ Breakdown of cases, deaths, confirmed and recovered rate by Indian state.
 
 ![State Analysis](gifs/Map_analysis(state).gif)
 
-# ✅ Page 4: Zone Analysis
+# ✅ Page 3: Zone Analysis
 Breakdown of COVID-19 spread and outcomes by regional zones.
 
 1. This page displays COVID-19 containment zones across India — divided into Red, Orange, and Green zones.
