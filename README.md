@@ -62,11 +62,29 @@ Excel/CSV
 
 # ✅ Page 1: Dashboard
 Overview of the COVID-19 dashboard with summary statistics and key visuals.
+  
+1. This is a Power BI dashboard visualizing COVID-19 data across India.
+
+2. It shows key metrics — total confirmed, recovered, and death cases.
+
+3. The bar charts compare COVID-19 trends across top 3 states and districts.
+
+4. Color coding helps quickly identify confirmed (pink), recovered (green), and death (red) cases.
+
+5. The interactive tooltips display detailed data when hovering over bars.
 
 ![Dashboard](gifs/Dashboard.gif)
 
 
 # ✅ Page 2: State Analysis (Map)
 Breakdown of cases, deaths, confirmed and recovered rate by Indian state.
+
+1. This page shows a state-level map visualization of COVID-19 data across India.
+
+2. Each bubble represents a state, sized by total confirmed cases.
+
+3. Colors and tooltips display key metrics like total confirmed, recovered, active, and death percentages.
+
+4. Interactive hovering helps users quickly compare states like Maharashtra, Tamil Nadu, and Kerala.
 
 ![State Analysis](gifs/Map_analysis(state).gif)
