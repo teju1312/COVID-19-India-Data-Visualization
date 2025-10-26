@@ -122,7 +122,7 @@ This page provides a comprehensive analysis of COVID-19 testing data—both over
 
 # ✅ Page 5: Patients Details
 
-This page presents an in-depth view of patient distribution by state and their current COVID-19 status
+This page presents an in-depth view of patient distribution by state and their current COVID-19 status.
 
 1. This page shows the current status of COVID-19 patients across different states.
 
