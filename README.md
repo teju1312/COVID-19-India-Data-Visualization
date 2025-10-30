@@ -48,8 +48,6 @@ Power BI
 
 DAX
 
-Excel/CSV
-
 # 🧠 Learnings
 1. How to clean and validate large real-world health datasets with Python
 
